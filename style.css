@@ -1,0 +1,4 @@
+.test{
+    height: var(--element-height);
+    background-color: yellow;
+}
