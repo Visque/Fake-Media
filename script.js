@@ -24,8 +24,3 @@ window.onresize = () => {
     }
 
 }
-
-
-{
-    number: [idx, ]
-}
